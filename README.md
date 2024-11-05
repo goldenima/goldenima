@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @goldenima
+- 👋 Hi, I’m @imrahn_mi
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java script
 - 💞️ I’m looking to collaborate on my new project
